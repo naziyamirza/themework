@@ -13,7 +13,7 @@ export const Modu = () => {
            <Text style={{ color: theme.title }}>Open New Account</Text>
            <Text style={{ color: theme.subtitle }}>Open a new account with us  in just a few easy steps</Text>
           <TouchableHighlight style={{padding:10}} onPress={()=>Alert.alert("Pressed")} >
-           <Text style={{ color: theme.btn }}>Apply Button</Text>
+           <Text style={{ color: theme.btn }}>Apply Button Here</Text>
           </TouchableHighlight>
          </View>
          <View >
